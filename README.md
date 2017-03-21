@@ -1,5 +1,5 @@
 # Capstone-1
-Requirements and mockups of BuddyBook Project.
+Requirements and mockups of BuddyBook Project. Mockups created using https://www.draw.io
 
 
 
