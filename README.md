@@ -1,5 +1,5 @@
 # Capstone-1
-Requirement and mockups of BuddyBook Project.
+Requirements and mockups of BuddyBook Project.
 
 
 
